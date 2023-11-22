@@ -75,8 +75,6 @@ You can deploy this page to Netlify.
 - [SASS](https://sass-lang.com/) - CSS Preprocessor
 
 ## ✍️ Authors <a name = "authors"></a>
-
-- [@fernandocutire](https://github.com/FernandoC1217) - Build by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
